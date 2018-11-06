@@ -7,4 +7,4 @@ install:
 # command to run tests
 script:
   - export PYTHONPATH=$PYTHONPATH:$(pwd)
-  - python app\tests\test.py
+  - python app/tests/test.py
